@@ -38,7 +38,7 @@
 
 #### Gnedenko
 - [Textbook](https://nmetau.edu.ua/file/gnedenko1988.pdf)
-- 
+  
 #### Sevastianov
 - [Textbook](https://www.klex.ru/1c0g)
 
