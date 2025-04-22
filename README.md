@@ -41,6 +41,9 @@
   
 #### Sevastianov
 - [Textbook](https://www.klex.ru/1c0g)
+  
+- #### Kremer
+- [Textbook](https://elenagavrile.narod.ru/ms/kremer_n.sh-teorija_verojatnosti_i_matematicheskaj.pdf)
 
 <br><br>
 
