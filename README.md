@@ -45,6 +45,9 @@
 #### Kremer
 - [Textbook](https://elenagavrile.narod.ru/ms/kremer_n.sh-teorija_verojatnosti_i_matematicheskaj.pdf)
 
+#### Ventcel
+- [Textbook](https://djvu.online/file/smd0RTUpmsUPL?ysclid=mlvvgkzgoy203996032)
+
 <br><br>
 
 # Additional materials
